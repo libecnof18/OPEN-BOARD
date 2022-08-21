@@ -1,6 +1,7 @@
 # OpenBoard
 | Project | Link |
 | ------ | ------ |
+| Website link | https://boyceyboycey.github.io/OpenBoard/ 
 
 
 ---
